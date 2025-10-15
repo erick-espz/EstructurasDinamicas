@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\anton\\OneDrive\\Desktop\\EstructurasDim\\EstructuraDinamica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0C08ADA0-4924-4261-9C77-3CA144E1F2EF}|EstructuraDinamica\\EstructuraDinamica.csproj|c:\\users\\anton\\onedrive\\desktop\\estructurasdim\\estructuradinamica\\estructuradinamica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{0C08ADA0-4924-4261-9C77-3CA144E1F2EF}|EstructuraDinamica\\EstructuraDinamica.csproj|solutionrelative:estructuradinamica\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{0C08ADA0-4924-4261-9C77-3CA144E1F2EF}|EstructuraDinamica\\EstructuraDinamica.csproj|c:\\users\\anton\\onedrive\\desktop\\estructurasdim\\estructuradinamica\\estructuradinamica\\frmpilaea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0C08ADA0-4924-4261-9C77-3CA144E1F2EF}|EstructuraDinamica\\EstructuraDinamica.csproj|solutionrelative:estructuradinamica\\frmpilaea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +14,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -25,13 +25,17 @@
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Desktop\\EstructurasDim\\EstructuraDinamica\\EstructuraDinamica\\Form1.cs",
-              "RelativeDocumentMoniker": "EstructuraDinamica\\Form1.cs",
-              "ToolTip": "C:\\Users\\anton\\OneDrive\\Desktop\\EstructurasDim\\EstructuraDinamica\\EstructuraDinamica\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "EstructuraDinamica\\Form1.cs [Dise\u00F1o]",
+              "Title": "FrmPilaEA.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\anton\\OneDrive\\Desktop\\EstructurasDim\\EstructuraDinamica\\EstructuraDinamica\\FrmPilaEA.cs",
+              "RelativeDocumentMoniker": "EstructuraDinamica\\FrmPilaEA.cs",
+              "ToolTip": "C:\\Users\\anton\\OneDrive\\Desktop\\EstructurasDim\\EstructuraDinamica\\EstructuraDinamica\\FrmPilaEA.cs [Dise\u00F1o]",
+              "RelativeToolTip": "EstructuraDinamica\\FrmPilaEA.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-15T15:54:05.142Z",
               "EditorCaption": " [Dise\u00F1o]"

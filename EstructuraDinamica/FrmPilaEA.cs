@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace EstructuraDinamica
 {
-    public partial class Form1 : Form
+    public partial class FrmPilaEA : Form
     {
-        public Form1()
+        public FrmPilaEA()
         {
             InitializeComponent();
         }
