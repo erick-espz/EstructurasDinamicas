@@ -33,6 +33,9 @@
             this.btnAgregar = new System.Windows.Forms.Button();
             this.lblEdades = new System.Windows.Forms.Label();
             this.btnSacar = new System.Windows.Forms.Button();
+            this.btnMostrar = new System.Windows.Forms.Button();
+            this.lblEdades2 = new System.Windows.Forms.Label();
+            this.btnOrdenar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblEdad
@@ -80,11 +83,43 @@
             this.btnSacar.UseVisualStyleBackColor = true;
             this.btnSacar.Click += new System.EventHandler(this.btnSacar_Click);
             // 
+            // btnMostrar
+            // 
+            this.btnMostrar.Location = new System.Drawing.Point(459, 39);
+            this.btnMostrar.Name = "btnMostrar";
+            this.btnMostrar.Size = new System.Drawing.Size(153, 43);
+            this.btnMostrar.TabIndex = 5;
+            this.btnMostrar.Text = "Mostrar Ultimo";
+            this.btnMostrar.UseVisualStyleBackColor = true;
+            this.btnMostrar.Click += new System.EventHandler(this.btnMostrar_Click);
+            // 
+            // lblEdades2
+            // 
+            this.lblEdades2.AutoSize = true;
+            this.lblEdades2.Location = new System.Drawing.Point(372, 107);
+            this.lblEdades2.Name = "lblEdades2";
+            this.lblEdades2.Size = new System.Drawing.Size(64, 20);
+            this.lblEdades2.TabIndex = 6;
+            this.lblEdades2.Text = "Edades";
+            // 
+            // btnOrdenar
+            // 
+            this.btnOrdenar.Location = new System.Drawing.Point(618, 39);
+            this.btnOrdenar.Name = "btnOrdenar";
+            this.btnOrdenar.Size = new System.Drawing.Size(92, 44);
+            this.btnOrdenar.TabIndex = 7;
+            this.btnOrdenar.Text = "Ordenar";
+            this.btnOrdenar.UseVisualStyleBackColor = true;
+            this.btnOrdenar.Click += new System.EventHandler(this.btnOrdenar_Click);
+            // 
             // FrmPilaEA
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(486, 450);
+            this.ClientSize = new System.Drawing.Size(713, 450);
+            this.Controls.Add(this.btnOrdenar);
+            this.Controls.Add(this.lblEdades2);
+            this.Controls.Add(this.btnMostrar);
             this.Controls.Add(this.btnSacar);
             this.Controls.Add(this.lblEdades);
             this.Controls.Add(this.btnAgregar);
@@ -104,6 +139,9 @@
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Label lblEdades;
         private System.Windows.Forms.Button btnSacar;
+        private System.Windows.Forms.Button btnMostrar;
+        private System.Windows.Forms.Label lblEdades2;
+        private System.Windows.Forms.Button btnOrdenar;
     }
 }
 
