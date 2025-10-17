@@ -40,6 +40,7 @@ namespace EstructuraDinamica
             else
                 MessageBox.Show("Pila Vacia");
         }
+        // Ordenar de mayor a menor
     }
 
 }

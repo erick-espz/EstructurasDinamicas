@@ -8,3 +8,4 @@ C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDina
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.csproj.CoreCompileInputs.cache
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.pdb
+C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe.config
