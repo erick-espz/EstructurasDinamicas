@@ -32,6 +32,7 @@
             this.tbEdad = new System.Windows.Forms.TextBox();
             this.btnAgregar = new System.Windows.Forms.Button();
             this.lblEdades = new System.Windows.Forms.Label();
+            this.btnSacar = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblEdad
@@ -58,6 +59,7 @@
             this.btnAgregar.TabIndex = 2;
             this.btnAgregar.Text = "Agregar";
             this.btnAgregar.UseVisualStyleBackColor = true;
+            this.btnAgregar.Click += new System.EventHandler(this.btnAgregar_Click);
             // 
             // lblEdades
             // 
@@ -68,11 +70,22 @@
             this.lblEdades.TabIndex = 3;
             this.lblEdades.Text = "Edades";
             // 
+            // btnSacar
+            // 
+            this.btnSacar.Location = new System.Drawing.Point(333, 39);
+            this.btnSacar.Name = "btnSacar";
+            this.btnSacar.Size = new System.Drawing.Size(120, 43);
+            this.btnSacar.TabIndex = 4;
+            this.btnSacar.Text = "Sacar";
+            this.btnSacar.UseVisualStyleBackColor = true;
+            this.btnSacar.Click += new System.EventHandler(this.btnSacar_Click);
+            // 
             // FrmPilaEA
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(9F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(486, 450);
+            this.Controls.Add(this.btnSacar);
             this.Controls.Add(this.lblEdades);
             this.Controls.Add(this.btnAgregar);
             this.Controls.Add(this.tbEdad);
@@ -90,6 +103,7 @@
         private System.Windows.Forms.TextBox tbEdad;
         private System.Windows.Forms.Button btnAgregar;
         private System.Windows.Forms.Label lblEdades;
+        private System.Windows.Forms.Button btnSacar;
     }
 }
 
