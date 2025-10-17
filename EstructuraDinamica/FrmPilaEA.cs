@@ -17,10 +17,12 @@ namespace EstructuraDinamica
             InitializeComponent();
         }
 
+        Stack<int> pila = new Stack<int>();
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            int edad = int.Parse(txtEdad.Text);
+            int edad = int.Parse(tbEdad.Text);
             pila.Push(edad);
+            Mostrar();
         }
 
         private void Mostrar()
@@ -28,6 +30,7 @@ namespace EstructuraDinamica
             string msn = "";
             foreach(int edad in pila)
                 msn += " " + edad + " | ";
+            lblEdades.Text = msn;
         }
 
         private void btnSacar_Click(object sender, EventArgs e)
@@ -41,6 +44,36 @@ namespace EstructuraDinamica
                 MessageBox.Show("Pila Vacia");
         }
         // Ordenar de mayor a menor
-    }
+        private void ordenar()
+        {
+            Stack<int> PilaAux = new Stack<int>();
+
+            while (pila.Count > 0)
+            {
+                int temp = pila.Pop();
+
+                while (PilaAux.Count > 0 && PilaAux.Peek() > temp)
+                {
+                    pila.Push(PilaAux.Pop());
+                }
+
+                PilaAux.Push(temp);
+            }
+
+            pila = PilaAux;
+
+            string msn = "";
+            foreach(int edad in pila)
+            {
+                msn += " " + edad + " | ";
+            }
+            lblEdades2.Text = msn;
+
+        }
+        private void btnOrdenar_Click(object sender, EventArgs e)
+        {
+            ordenar();
+        }
+    }    
 
 }

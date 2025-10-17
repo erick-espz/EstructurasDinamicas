@@ -9,3 +9,14 @@ C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDina
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.pdb
 C:\Users\anton\OneDrive\Desktop\EstructurasDim\EstructuraDinamica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe.config
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\bin\Debug\EstructuraDinamica.exe.config
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\bin\Debug\EstructuraDinamica.exe
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\bin\Debug\EstructuraDinamica.pdb
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.csproj.AssemblyReference.cache
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe.config
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.FrmPilaEA.resources
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.Properties.Resources.resources
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.csproj.GenerateResource.cache
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.csproj.CoreCompileInputs.cache
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.exe
+C:\Users\jlsel\Desktop\practica\EstructuraDinamica\obj\Debug\EstructuraDinamica.pdb
